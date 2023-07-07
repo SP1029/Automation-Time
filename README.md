@@ -23,6 +23,6 @@
 
 - While trying to automate this, I got stuck at one point where  Captcha was required to log in. Then Pytesseract, an OCR Library in Python, came to the rescue. Since the Captcha used in IRCTC is just an image of letters, so using this, I was successfully able to decode it.
 
-- Till now, I have written the code to log in and enter the journey details.
+- Till now, I have written the code to log in, enter the journey details and search for trains.
 
 Work in Progress...
