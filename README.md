@@ -1,7 +1,7 @@
 
 # Automation Time
 
-- In the CS253 (Introduction to Software Development) Course, I learned to write bash scripts for basic tasks, such as file searching using the grep command. 
+- In the CS253 (Introduction to Software Development) Course, I learned to write bash scripts for basic tasks, such as searching for strings through files using the grep command, which would have otherwise taken too much time if done manually. 
 
 - After that, I wanted to know if we could control the keyboard and mouse using scripts to automate some basic tasks...
 
