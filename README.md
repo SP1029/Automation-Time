@@ -17,11 +17,11 @@
 - To skip the process of login etc., I used to open the Chrome Browser with my profile already loaded in Chrome
 
 - Although the API also has several other benefits, this also wasn't a bad option
-## IRCTC
+## Train Ticket Booking
 
-- For those who use IRCTC for ticket booking, I am sure you know how uncertain we are about getting a confirmed ticket when booking a Tatkal ticket. 
+- For those who use websites for ticket booking, I am sure you would know how uncertain we are about getting a confirmed ticket when booking a Tatkal ticket. 
 
-- While trying to automate this, I got stuck at one point where  Captcha was required to log in. Then Pytesseract, an OCR Library in Python, came to the rescue. Since the Captcha used in IRCTC is just an image of letters, so using this, I was successfully able to decode it.
+- While trying to automate this, I got stuck at one point where  Captcha was required to log in. Then Pytesseract, an OCR Library in Python, came to the rescue. Since the Captcha used on the website was simply an image of letters, so using this, I was successfully able to decode it.
 
 - Till now, I have written the code to log in, enter the journey details and search for trains.
 
