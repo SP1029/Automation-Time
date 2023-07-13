@@ -17,7 +17,7 @@
 
 - Although the API also has several other benefits, this also wasn't a bad option
 
-## ChatGPT
+## Bard
 
 - Tried similar with Bard
 
